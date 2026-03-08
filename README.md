@@ -1,4 +1,7 @@
+# About This Midterm Project
 Hello. This is my midterm project submission for the Spring 2026 NYU digital humanities course, Intro to Web Development, taught by profesor Jo Suk. 
+
+## Assignment Instructions
 
 The following is the assignment instructions from our class page:
 
@@ -18,5 +21,7 @@ Documentation of your process will factor into the assessment of this project, i
 Source code and documentation should be uploaded to its own GitHub repository. The write-up can go in the README.md file. You can link your wireframe as a link online or as an image file in the README.md.
 
 Keep in mind you will be asked to update your midterm project with basic functionality using JavaScript a few weeks following the deadline, so save any ideas that come up during the process about how to make your site more interactive."
+
+## My Project Proposal
 
 For my static site, I will be focusing on my hobby interest in researching controversies related to food. The website will be a personal collection of foods I have learned lore about that I find personally interesting. The website will be called "Food Scandals" and will link to resources about the food conundrums I'm keeping tabs on.
